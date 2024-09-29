@@ -21,6 +21,6 @@ I am working as a front-end developer, which allows me to enhance my skills in c
 ![](https://github-contributor-stats.vercel.app/api?username=ZahraAbdolalian&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ZahraAbdolalian&icon=4&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ZahraAbdolalian&label=Profile%20Views&color=12&icon=4&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
